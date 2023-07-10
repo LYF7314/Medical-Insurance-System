@@ -1,4 +1,11 @@
 # Medical-Insurance-System
+## Project Structure
+### Front_end
+前端界面
+### Rear_end 
+后端程序（java,xml,sql等）
+### Design_process
+报告以及设计相关材料（ER图等）
 ## Introduction
 本项目只涉及到基本医疗保险的业务，不涉及其他业务。
 
