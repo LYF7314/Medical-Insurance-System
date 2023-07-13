@@ -1,4 +1,9 @@
 # Medical-Insurance-System
+## technology stack
+### Front_end
+vue2+Element-ui+axios
+### Rear_end 
+Springboot2+Mysql+Mybatis+Mybatis plus
 ## Project Structure
 ### Front_end
 前端界面

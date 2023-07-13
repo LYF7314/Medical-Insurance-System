@@ -1,5 +1,5 @@
 <template>
-    <h1>This is User</h1>
+    <h1>This is MedicalStaffFee</h1>
   </template>
   
   <script>

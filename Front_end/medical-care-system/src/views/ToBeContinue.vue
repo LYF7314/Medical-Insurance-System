@@ -1,12 +1,10 @@
 <template>
-  <h1>This is Home</h1>
+  <el-empty :image-size="200"></el-empty>
 </template>
 
 <script>
 export default {
-    data(){
-        return{}
-    }
+
 }
 </script>
 
